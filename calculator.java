@@ -38,6 +38,7 @@ public class calculator {
             System.out.println("2.subtract");
             System.out.println("3.multiply");
             System.out.println("4.divide");
+            System.out.println("5.Exit");
             System.out.println(" ");
             System.out.println("choose option: ");
 
